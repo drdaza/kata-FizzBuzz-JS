@@ -72,5 +72,4 @@ Stage 2 - new requirements
 * A number is buzz if it is divisible by 5 or if it has a 5 in it
 
 
-### Source
-- https://codingdojo.org/kata/FizzBuzz/
+### Kata realized for DRDAZA 
